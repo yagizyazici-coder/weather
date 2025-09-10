@@ -25,3 +25,4 @@ else:
 
 print("weather:",weather_info)
 notification.notify( title="Weather Update", message=weather_info, timeout=5)
+print("thank you")
